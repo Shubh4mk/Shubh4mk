@@ -12,47 +12,31 @@ Want to know more about me? [Check out my portfolio.](https://shubh4mk.github.io
 ## 📝 Latest Blog Posts
 
 <br>
-
-
-
+<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
 <br>
 
 ## 📌 Pinned Repositories
 
 <br>
-
-
-<br>
-
-
-
-<br>
-
-
-
-
-
-<br>
+<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
 <br>
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
-
-<br>
+<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
 <br>
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=4AB197)
 
 <details>
+  
 <summary>More Skills</summary>
+  
 <br>
-
-<br>
-
+<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
 <br>
 
 </details>
