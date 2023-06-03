@@ -9,23 +9,6 @@ I’m Shubham, an aspiring data scientistder and self-proclaimed designer who sp
 
 Want to know more about me? [Check out my portfolio.](https://shubh4mk.github.io/MyPortfolio/)
 
-## 📝 Latest Blog Posts
-
-<br>
-<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-<img src="https://github.com/shubh4mk/shubh4mk/blob/main/resources/Loading3.gif"
-<br>
 
 ## 💼 Skills
 
