@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Shubham, an aspiring data scientistder and self-proclaimed designer who specializes in front-end development.
+I’m Shubham, an aspiring data scientist and self-proclaimed web designer who specializes in front-end development.
 
 Want to know more about me? [Check out my portfolio.](https://shubh4mk.github.io/MyPortfolio/)
 
